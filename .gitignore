@@ -3,4 +3,4 @@ dataset/
 runs/
 models/
 *.pt
-.env
+*.env
