@@ -4,3 +4,4 @@ runs/
 models/
 *.pt
 *.env
+node_module
